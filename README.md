@@ -25,6 +25,15 @@ It was built as a personal project to explore the fundamentals of 2D game develo
 
 ---
 
+## Author
+
+Georgios Michael  
+(https://github.com/georgem1chael)
+
+## License
+
+This project is intended for educational and personal use only.  
+
 ## Project Structure
 
 ```plaintext
@@ -41,12 +50,3 @@ Assets/
 │   ├── logicScript.cs
 │   └── ...
 
-
-## Author
-
-Georgios Michael  
-[github.com/georgem1chael](https://github.com/georgem1chael)
-
-## License
-
-This project is intended for educational and personal use only.  
